@@ -12,13 +12,13 @@ namespace Desafio_Estacionamento_Dio.Classes
                 return soma;
             };
 
-            var saida = new DateTime(2023, 9, 26, 22, 30, 15);
+            var saida = new DateTime(2023, 9, 27, 22, 30, 15);
 
             TimeSpan calculoTempo = saida - time;
 
             if(calculoTempo.Hours < 1)
             {
-                Console.WriteLine("Gratuito");
+                Console.WriteLine("Abaixo de 1h de permanencia, valor Gratuito");
             } else if(calculoTempo.Hours < 5) 
             {
                 Console.WriteLine($"Por {calculoTempo.Hours} pagar R${Precos[calculoTempo.Hours]} Reais");

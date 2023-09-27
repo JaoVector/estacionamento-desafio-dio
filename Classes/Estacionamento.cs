@@ -4,7 +4,7 @@ namespace Desafio_Estacionamento_Dio.Classes
     {
         private Veiculo[] _vagas;
         private int tam = 0;
-        
+
         public Estacionamento(int capacidade)
         {
             _vagas = new Veiculo[capacidade];
@@ -35,12 +35,13 @@ namespace Desafio_Estacionamento_Dio.Classes
         {
             var tempo = _vagas[index].Chegada;
             CalculoPermanencia.CalculaValor(tempo);
-            ResizeVagas(index);
+            ResizeVagas(_vagas[index]);
         }
 
-        private void ResizeVagas(int index)
+        private void ResizeVagas(Veiculo veiculo)
         {
-            _vagas[index] = null!;
+            var i = Array.IndexOf(_vagas, veiculo);
+            _vagas[i] = null!;
             tam--;   
         }
     }
