@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\bin\Debug\net6.0\Desafio_Estacionamento_Dio.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\bin\Debug\net6.0\Desafio_Estacionamento_Dio.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\bin\Debug\net6.0\Desafio_Estacionamento_Dio.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\bin\Debug\net6.0\Desafio_Estacionamento_Dio.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\bin\Debug\net6.0\Desafio_Estacionamento_Dio.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\refint\Desafio_Estacionamento_Dio.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\Desafio_Estacionamento_Dio.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Desafio_Estacionamento\Desafio_Estacionamento_Dio\obj\Debug\net6.0\ref\Desafio_Estacionamento_Dio.dll
